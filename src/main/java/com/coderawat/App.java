@@ -6,5 +6,6 @@ public class App {
         System.out.println("App running...");
         //DJ logging logic
         //AR Security logic
+        //AR CORS Security logic
     }
 }
